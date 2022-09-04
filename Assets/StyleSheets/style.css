@@ -210,7 +210,7 @@ footer nav ul
 footer nav ul li
 {
     list-style: none;
-    font-size: 4vmin;
+    font-size: 3.5vmin;
     color: var(--color-text-secondary);
 }
 
