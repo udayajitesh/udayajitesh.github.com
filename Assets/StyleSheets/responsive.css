@@ -15,6 +15,11 @@
         width: 100%;
     }
 
+    .items
+    {
+        display: none;
+    }
+
     footer
     {
         padding-bottom: 5%;

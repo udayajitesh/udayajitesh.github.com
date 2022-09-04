@@ -44,9 +44,10 @@
     outline: none;
     background-color: var(--color-base-1);
     color: var(--color-text-secondary);
-    font-size: 5vmin;
+    font-size: 3vmin;
     width: 30%;
     border-radius: 50px;
+    padding: 3%;
 }
 
 

@@ -154,7 +154,7 @@ header nav ul button.more
 
 header nav i
 {
-    font-size: calc(1vmin + 18px);
+    font-size: calc(1vmin + 15px);
 }
 
 header nav .ion-ios-moon
